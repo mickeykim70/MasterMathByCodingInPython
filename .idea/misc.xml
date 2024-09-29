@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectRootManager" version="2" project-jdk-name="/home/dev/miniconda3" project-jdk-type="Python SDK" />
+  <component name="Black">
+    <option name="sdkName" value="physics_env" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="physics_env" project-jdk-type="Python SDK" />
   <component name="PyPackaging">
     <option name="earlyReleasesAsUpgrades" value="true" />
   </component>
